@@ -2,7 +2,12 @@
 
 This application allows you to see who of the people you follow is not following you
 
-- 1-Before running app.py file download selenium and pyautogui! (If you have pip you can use the command "```pip install selenium```" and "```pip install pyautogui```".)
+- 1-Before running app.py file download selenium and pyautogui! 
+>In windows use py ```-m pip install -r requirements.txt``` to install required dependencies
+
+>In Unix/MacOS use python ```-m pip install -r requirements.txt``` 
+
+>(Or you can use the command "```pip install selenium```" and "```pip install pyautogui```")
 - 2-Then make sure your webdriver is ready to use! 
 >2.1 [a link](https://github.com/mozilla/geckodriver/releases) If you use firefox you can download webdriver from this link!
 
