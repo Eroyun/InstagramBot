@@ -1,4 +1,4 @@
-# InstagramBot
+# InstagramBot (Selenium)
 
 This application allows you to see who of the people you follow is not following you
 
